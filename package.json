@@ -1,6 +1,6 @@
 {
   "name": "hubot-eto",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that displays Eto",
   "main": "index.js",
   "scripts": {
